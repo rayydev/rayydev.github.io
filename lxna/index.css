@@ -2,10 +2,10 @@
 
 * {
     font-family: 'JetBrains Mono', monospace;
-    background-color: #141414;
+    background-color: #000000;
     margin: 0;
 }
 
-.main {
-    color: #FFFFFF;
+h1 {
+    color: white;
 }
